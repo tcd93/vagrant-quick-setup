@@ -1,3 +1,5 @@
+Pre-defined `.vagrantfile` to quickly set up virtual environment with Node, Docker installed. NFS syncing available.
+
 # Prerequisites
 * Oracle [VirtualBox v6.0.1x](https://www.virtualbox.org/wiki/Download_Old_Builds_6_0) (_**do not download version 6.1.x**_)
 * HashiCorp's [Vagrant v2.2.6](https://www.vagrantup.com/)
